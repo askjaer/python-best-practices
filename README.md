@@ -15,3 +15,6 @@ This is a collaboration library for solving time travel.
 
 Time travel can create time paradoxes such as the grandfather paradox and the bootstrap paradox.
 Proceed with care.
+
+## Location
+This workshop was held in Copenhagen
