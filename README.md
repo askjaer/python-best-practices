@@ -17,4 +17,4 @@ Time travel can create time paradoxes such as the grandfather paradox and the bo
 Proceed with care.
 
 ## Location
-This workshop was held in Copenhagen
+This workshop was held in Valby.
