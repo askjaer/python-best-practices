@@ -8,4 +8,6 @@ This is a collaboration library for solving time travel.
  - Sune: @askjaer
  - Victor
  - Karsten
+ - Salva
+ - Steen
 
